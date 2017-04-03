@@ -1,0 +1,4 @@
+metadata.json usr/share/puppet/modules/stdlib
+manifests     usr/share/puppet/modules/stdlib
+lib           usr/share/puppet/modules/stdlib
+types         usr/share/puppet/modules/stdlib

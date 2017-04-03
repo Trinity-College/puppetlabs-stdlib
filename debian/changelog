@@ -1,0 +1,12 @@
+puppet-module-stdlib (4.16.0-1) jessie; urgency=medium
+
+  * New version, rebuilt for Trinity, based on the Debian
+    puppet-module-puppetlabs-stdlib packaging.
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Mon, 03 Apr 2017 10:34:05 +1000
+
+puppet-module-puppetlabs-stdlib (4.14.0-1) unstable; urgency=medium
+
+  * Imported upstream release 4.14.0
+
+ -- Stig Sandbeck Mathisen <ssm@debian.org>  Thu, 15 Dec 2016 07:53:08 +0100
