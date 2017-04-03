@@ -1,0 +1,16 @@
+Source: puppet-module-stdlib
+Section: misc
+Priority: extra
+Maintainer: Geoff Crompton <geoffc@trinity.unimelb.edu.au>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.1
+Homepage: https://github.com/puppetlabs/puppetlabs-stdlib
+#Vcs-Git: git://git.debian.org/collab-maint/puppet-module-stdlib.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/puppet-module-stdlib.git;a=summary
+
+Package: puppet-module-stdlib
+Architecture: all
+Depends: ${misc:Depends}
+Description: puppetlabs standard libary of puppet modules
+ This module provides a “standard library” of resources for developing
+ Puppet Modules.

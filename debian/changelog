@@ -1,0 +1,23 @@
+puppet-module-stdlib (3.2.0-4) unstable; urgency=low
+
+  * remove pe_version.rb to avoid problems for db01
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Wed, 13 Mar 2013 16:54:43 +1100
+
+puppet-module-stdlib (3.2.0-3) unstable; urgency=low
+
+  * fix package, correcting debian/install lines
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Wed, 06 Feb 2013 12:14:54 +1100
+
+puppet-module-stdlib (3.2.0-2) unstable; urgency=low
+
+  * fix package, by adding debian/install
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Wed, 06 Feb 2013 12:06:58 +1100
+
+puppet-module-stdlib (3.2.0-1) unstable; urgency=low
+
+  * Initial release 
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Tue, 29 Jan 2013 12:18:53 +1100

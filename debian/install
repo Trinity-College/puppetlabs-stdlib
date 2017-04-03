@@ -1,0 +1,2 @@
+lib usr/share/puppet/modules/stdlib
+manifests usr/share/puppet/modules/stdlib
